@@ -1,0 +1,14 @@
+*{
+    color:rgb(243, 81, 194);
+}
+body{
+    background-color: black;
+    /*background: rgb(28, 192, 233);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);*/
+    background-image: url("gato.gif");
+}
+#titulo1{
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+
+}
